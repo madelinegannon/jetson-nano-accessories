@@ -3,6 +3,7 @@ A variety of 3D printed mounts, adapters, and kits so you can take the NVIDIA Je
 
 ## Parts List
 | Item | Qty | Ref |
+|| ------------- |:-------------:| -----:|
 | Stake | 1 | [url]() |
 | Board Back | 1 | [url]() |
 | Nano Clips | 2 | [url]() |
@@ -10,6 +11,7 @@ A variety of 3D printed mounts, adapters, and kits so you can take the NVIDIA Je
 | M3 nuts | 2 | [url]() |
 
 #### Printer Settings
-Each of these parts were printed on a [Prusa i3 MK3S](https://www.prusa3d.com/original-prusa-i3-mk3/) printer using the MK3S_MK3_0.2_Fast profile (0.2mm layer height, 20% infill) with PLA. 
+Each of these parts were printed on a [Prusa i3 MK3S](https://www.prusa3d.com/original-prusa-i3-mk3/) printer using the MK3S_MK3_0.2_Fast profile (0.2mm layer height) with PLA. 
 
 #### Assembly Instructions
+1. Print the 
