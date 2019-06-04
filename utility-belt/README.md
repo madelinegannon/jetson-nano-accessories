@@ -4,7 +4,7 @@ The Jetson Nano is lightweight and power-efficient, which means you can easily w
 Here's a few project ideas to get started:
 - Build your own DIY Head Mounted Device.
 - Make robotic garments that respond to their environment.
-- Create a Sixth Sense that lets to navigate the world in a new way.
+- Create a "sixth sense" that lets to navigate the world in a new way.
 - Make a sassy robotic parrot that lives on your shoulder.
 
 
@@ -14,32 +14,30 @@ Here's a few project ideas to get started:
 
 | Item        | Qty           | Reference  |
 | ------------- |:-------------:| -----:|
-| Stake      | 1 | [jetson_nano_outdoors_stake.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/garden-stake/jetson_nano_outdoors_stake.stl) |
-| Board Back | 1 | [jetson_nano_outdoors_stake_board.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/garden-stake/jetson_nano_outdoors_stake_board.stl) |
-| Nano Clip  | 2 | [jetson_nano_clip.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/garden-stake/jetson_nano_clip.stl) |
-| Battery Clip  | 2 | [jetson_nano_clip_battery.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/garden-stake/jetson_nano_clip_battery.stl) |
-| M3x12mm screw | 2 | [Assorted Screw Set](https://www.amazon.com/VIGRUE-1080pcs-Assortment-Kit-Wrenches/dp/B07FCDL2SY/) |
-| M3x12mm nut | 2 | [Assorted Screw Set](https://www.amazon.com/VIGRUE-1080pcs-Assortment-Kit-Wrenches/dp/B07FCDL2SY/) |
-| Portable Battery | 2 | [INUI Power Bank](https://www.amazon.com/INIU-Portable-External-Powerbank-Compatible/dp/B07H6LB4J4/) |
+| Nano Board Buckle | 1 | [jetson_nano_board_buckle.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/utility-belt/jetson_nano_board_buckle.stl) |
+| Battery Board Buckle | 1 | [jetson_nano_battery_buckle.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/utility-belt/jetson_nano_battery_buckle.stl) |
+| Nano Clip  | 2 | [jetson_nano_clip.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/garden-utility/jetson_nano_clip.stl) |
+| Battery Clip (Vertical) | 1 | [jetson_nano_clip_battery-vertical.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/utility-belt/jetson_nano_clip_battery-vertical.stl) |
+| Buckles, Glides, & Nylon Strap | — | [BTNOW 15 Piece Set](https://www.amazon.com/gp/product/B075ZTLKJC/) |
+| Portable Battery | 1 | [INUI Power Bank](https://www.amazon.com/INIU-Portable-External-Powerbank-Compatible/dp/B07H6LB4J4/) |
 
 
 
 ## Assembly Instructions
 
-1. Print the [jetson_nano_outdoors_stake.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/garden-stake/jetson_nano_outdoors_stake.stl) at 10% infill.
-2. Print the [jetson_nano_outdoors_stake_board.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/garden-stake/jetson_nano_outdoors_stake_board.stl) and two [jetson_nano_clip.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/garden-stake/jetson_nano_clip.stl) at 20% infill.
-3. Slide the two Jetson Nano Clips into the front of the printed board (this should be a tight fiction fit). 
-    - _Note: The front of the board has centered slots and a rougher finish._
-4. Snap your Jetson Nano into the Clips — you should hear a nice click sound.
-5. Slide the two Battery Clips into the back of the printed board (this should be a tight fiction fit). 
-    - _Note: The back of the board has off-centered slots and a smoother finish._
-6. Snap your Portable Battery into the Battery Clips, and plug in the Nano and other peripherals.
-7. Bolt the board to the stake using the M3 screws and washers.
-8. Stick into the ground and go.
+1. Print the [jetson_nano_board_buckle.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/utility-belt/jetson_nano_board_buckle.stl), [jetson_nano_battery_buckle.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/utility-belt/jetson_nano_battery_buckle.stl), two [jetson_nano_clip.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/garden-utility/jetson_nano_clip.stl), and one [jetson_nano_clip_battery-vertical.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/utility-belt/jetson_nano_clip_battery-vertical.stl) at 20% infill.
+2. Slide the two Jetson Nano Clips into the front of the printed board with buckle (this should be a tight fiction fit). 
+    - _Note: This board has multiple slots for clips._
+3. Snap your Jetson Nano into the Clips — you should hear a nice click sound.
+4. Slide the one Battery Clip (Vertical) into the back of the printed battery board with buckle (this should be a tight fiction fit). 
+    - _Note: The battery board only has one slot for a clip._
+5. Snap your Portable Battery into the Battery Clip, and plug in the Nano and other peripherals.
+6. Attach the plastic Buckle, Glides, and Nylon Straps following these instructions: [Steps 1-6](https://images-na.ssl-images-amazon.com/images/I/91%2BgqnHoY0L._SL1500_.jpg) and [Steps 7-10](https://images-na.ssl-images-amazon.com/images/I/81tcsMIyBYL._SL1500_.jpg).
+7. Adjust the Nano and Portable Battery so that the weight is balanced.
+8. Buckle up and go.
 
 #### Printer Settings
 Each of these parts were printed on a [Prusa i3 MK3S](https://www.prusa3d.com/original-prusa-i3-mk3/) printer using the MK3S_MK3_0.2_Fast profile (0.2mm layer height) with PLA. 
 
 ## Credits
-1. The [Stake](https://github.com/madelinegannon/jetson-nano-builds/blob/master/garden-stake/jetson_nano_outdoors_stake_board.stl) was moded from this [Tent Stake](https://www.thingiverse.com/thing:2758339) by [mistertech](https://www.thingiverse.com/mistertech/about).
-2. The [Nano Clip](https://github.com/madelinegannon/jetson-nano-builds/blob/master/garden-stake/jetson_nano_clip.stl) and [Battery Clip](https://github.com/madelinegannon/jetson-nano-builds/blob/master/garden-stake/jetson_nano_clip_battery.stl) were derived from this [8020 Rail ATMega2560 Clip](https://www.thingiverse.com/thing:155130) by [the_digital_dentist](https://www.thingiverse.com/the_digital_dentist/about).
+1. The [Nano Clip](https://github.com/madelinegannon/jetson-nano-builds/blob/master/garden-utility/jetson_nano_clip.stl) and [Battery Clip](https://github.com/madelinegannon/jetson-nano-builds/blob/master/garden-utility/jetson_nano_clip_battery-vertical.stl) were derived from this [8020 Rail ATMega2560 Clip](https://www.thingiverse.com/thing:155130) by [the_digital_dentist](https://www.thingiverse.com/the_digital_dentist/about).

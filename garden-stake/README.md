@@ -21,7 +21,7 @@ Here's a few project ideas to get started:
 | Battery Clip  | 2 | [jetson_nano_clip_battery.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/garden-stake/jetson_nano_clip_battery.stl) |
 | M3x12mm screw | 2 | [Assorted Screw Set](https://www.amazon.com/VIGRUE-1080pcs-Assortment-Kit-Wrenches/dp/B07FCDL2SY/) |
 | M3x12mm nut | 2 | [Assorted Screw Set](https://www.amazon.com/VIGRUE-1080pcs-Assortment-Kit-Wrenches/dp/B07FCDL2SY/) |
-| Portable Battery | 2 | [INUI Power Bank](https://www.amazon.com/INIU-Portable-External-Powerbank-Compatible/dp/B07H6LB4J4/) |
+| Portable Battery | 1 | [INUI Power Bank](https://www.amazon.com/INIU-Portable-External-Powerbank-Compatible/dp/B07H6LB4J4/) |
 
 
 
