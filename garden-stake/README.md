@@ -27,9 +27,6 @@ Here's a few project ideas to get started:
 
 ## Assembly Instructions
 
-#### Printer Settings
-Each of these parts were printed on a [Prusa i3 MK3S](https://www.prusa3d.com/original-prusa-i3-mk3/) printer using the MK3S_MK3_0.2_Fast profile (0.2mm layer height) with PLA. 
-
 1. Print the [jetson_nano_outdoors_stake.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/garden-stake/jetson_nano_outdoors_stake.stl) at 10% infill.
 2. Print the [jetson_nano_outdoors_stake_board.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/garden-stake/jetson_nano_outdoors_stake_board.stl) and two [jetson_nano_clip.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/garden-stake/jetson_nano_clip.stl) at 20% infill.
 3. Slide the two Jetson Nano Clips into the front of the printed board (this should be a tight fiction fit). 
@@ -40,6 +37,9 @@ Each of these parts were printed on a [Prusa i3 MK3S](https://www.prusa3d.com/or
 6. Snap your Portable Battery into the Battery Clips, and plug in the Nano and other peripherals.
 7. Bolt the board to the stake using the M3 screws and washers.
 8. Stick into the ground and go.
+
+#### Printer Settings
+Each of these parts were printed on a [Prusa i3 MK3S](https://www.prusa3d.com/original-prusa-i3-mk3/) printer using the MK3S_MK3_0.2_Fast profile (0.2mm layer height) with PLA. 
 
 ## Credits
 1. The [Stake](https://github.com/madelinegannon/jetson-nano-builds/blob/master/garden-stake/jetson_nano_outdoors_stake_board.stl) was moded from this [Tent Stake](https://www.thingiverse.com/thing:2758339) by [mistertech](https://www.thingiverse.com/mistertech/about)
