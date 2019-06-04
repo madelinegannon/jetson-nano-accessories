@@ -11,11 +11,13 @@ A variety of 3D printed mounts, adapters, and kits so you can take the NVIDIA Je
 | M3x12mm screws | 2 | [url]() |
 | M3 nuts | 2 | [url]() |
 
-| Tables        | Are           | Cool  |
+| Item        | Qty           | Reference  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Stake      | 1 | [jetson_nano_outdoors_stake.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/garden-stake/jetson_nano_outdoors_stake.stl) |
+| Board Back | 1 |   [jetson_nano_outdoors_stake_board.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/garden-stake/jetson_nano_outdoors_stake_board.stl) |
+| Nano Clips | 2      |   [jetson_nano_clips.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/garden-stake/jetson_nano_clips.stl) |
+| M3x12mm screws | 2      |   []() |
+| M3x12mm nuts | 2      |   []() |
 
 #### Printer Settings
 Each of these parts were printed on a [Prusa i3 MK3S](https://www.prusa3d.com/original-prusa-i3-mk3/) printer using the MK3S_MK3_0.2_Fast profile (0.2mm layer height) with PLA. 
