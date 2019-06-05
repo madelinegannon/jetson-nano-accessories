@@ -1,5 +1,5 @@
 ### Jetson Nano Tripod Mount
-This Jetson Nano Tripod Mount lets you attach the Jetson Nano developer kit to any leg of a [Manfrotto 028B Tripod](https://www.manfrotto.us/black-triman-camera-tripod). Attaching the Nano to the tripod leg keeps the computer close and mobile, while also leaving the tripod head clear for cameras and other sensors. The design takes advantage of the tripod's tapered, twink shank leg — so you can easily snap on the printed tripod clips, and slide the assembly up the leg until you have a snug connection.
+This Jetson Nano Tripod Mount lets you attach the Jetson Nano developer kit to any leg of a [Manfrotto 028B Tripod](https://www.manfrotto.us/black-triman-camera-tripod). Attaching the Nano to the tripod leg keeps the computer close and mobile — plus it leaves the tripod head clear for cameras and other sensors. The design takes advantage of this tripod's tapered, twin shanked leg — so you can easily snap on the printed tripod clips, and slide the assembly up the leg until you have a snug connection.
 
 <img src="" width="600">
 
