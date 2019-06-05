@@ -7,6 +7,7 @@ Here's a few project ideas to get started:
 - Create a "sixth sense" that lets to navigate the world in a new way.
 - Make a sassy robotic parrot that lives on your shoulder.
 
+> Keep in mind that the Nano's heat sink can get hot, and that the board can short if it comes into contact with metal (like from watches or bracelets). Consider adding a case around the top of the board if how you wear your is likely to come in contact with skin or metal. 
 
 <img src="" width="600">
 
