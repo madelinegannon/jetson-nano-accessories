@@ -9,7 +9,7 @@ Here's a few project ideas to get started:
 
 > The Jetson Nano is not waterproof, so use on a sunny day :)
 
-<img src="https://github.com/madelinegannon/jetson-nano-builds/blob/master/garden-stake/jetson_nano_outdoors_stake.png" width="600">
+<img src="https://github.com/madelinegannon/jetson-nano-builds/blob/master/garden-stake/images/jetson_nano_outdoors_stake.png" width="600">
 
 ## Parts List
 
