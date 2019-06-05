@@ -1,5 +1,5 @@
 ### Jetson Nano Tripod Mount
-This Jetson Nano Tripod Mount lets you attach the Jetson Nano developer kit to any leg of a [Manfrotto 028B Tripod](https://www.manfrotto.us/black-triman-camera-tripod). Attaching the Nano to the tripod leg keeps the computer close and mobile — plus it leaves the tripod head clear for cameras and other sensors. The design takes advantage of this tripod's tapered, twin shanked leg — so you can easily snap on the printed tripod clips, and slide the assembly up the leg until you have a snug connection.
+This Jetson Nano Tripod Mount lets you attach the Jetson Nano developer kit to any leg of a [Manfrotto 028B Tripod](https://www.manfrotto.us/black-triman-camera-tripod). Attaching the Nano to the tripod leg keeps the tripod head clear for cameras and other sensors, while keeping the computer close and mobile. This design takes advantage of the 028B's tapered, twin shanked leg — so you can easily snap on the printed tripod clips, and slide the assembly up the leg until you have a snug connection.
 
 <img src="" width="600">
 
@@ -15,7 +15,7 @@ This Jetson Nano Tripod Mount lets you attach the Jetson Nano developer kit to a
 ## Assembly Instructions
 
 1. Print the [jetson_nano_board.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/tripod-mount/jetson_nano_board.stl),  [jetson_nano_clips_tripod.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/tripod-mount/jetson_nano_clips_tripod.stl), and two [jetson_nano_clip.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/garden-utility/jetson_nano_clip.stl) at 20% infill.
-2. the two Jetson Nano Clips into the front of the printed board (this should be a tight fiction fit). 
+2. Slide the two Jetson Nano Clips into the front of the printed board (this should be a tight fiction fit). 
     - _Note: The front of the board has centered slots and a rougher finish._
 3. Snap your Jetson Nano into the Clips — you should hear a nice click sound.
 4. Slide the two Tripod Clips into the back of the printed board (this should be a tight fiction fit). 
