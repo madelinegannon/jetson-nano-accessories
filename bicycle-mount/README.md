@@ -17,8 +17,8 @@ Here's a few project ideas to get started:
 | ------------- |:-------------:| -----:|
 | Board Back | 1 | [jetson_nano_board.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/bicycle-mount/jetson_nano_board.stl) |
 | Nano Clip  | 2 | [jetson_nano_clip.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/bicycle-mount/jetson_nano_clip.stl) |
-| Bicycle Clip | 2 | [jetson_nano_clip_bicycle.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/car-mount/jetson_nano_bicycle.stl) |
-| Bicycle Sensor Clip | 1 | [jetson_nano_clip_bicycle_sensor.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/car-mount/jetson_nano_bicycle_sensor.stl) |
+| Bicycle Clip | 2 | [jetson_nano_clip_bicycle.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/car-mount/jetson_nano_clip_bicycle.stl) |
+| Bicycle Sensor Clip | 1 | [jetson_nano_clip_bicycle_sensor.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/car-mount/jetson_nano_clip_bicycle_sensor.stl) |
 | M3x8 screw | 2 | [Assorted Screw Set](https://www.amazon.com/VIGRUE-1080pcs-Assortment-Kit-Wrenches/dp/B07FCDL2SY/) |
 | M3 nut | 2 | [Assorted Screw Set](https://www.amazon.com/VIGRUE-1080pcs-Assortment-Kit-Wrenches/dp/B07FCDL2SY/) |
 | 1/4-20 x 1" screw | 1 | [1/4-20 Screw Assortment](https://www.amazon.com/iExcell-4-20UNC-Stainless-Internal-Drives/dp/B07C9MWCSP/) |
