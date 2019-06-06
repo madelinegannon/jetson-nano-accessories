@@ -39,7 +39,7 @@ Here's a few project ideas to get started:
     - If you find your Nano assembly is sliding forwards and backwards, add a zip tie before the first clip and after the last clip on your crossbar — these zip ties will act as stoppers. 
 7. Snap the Bicyle Sensor Clip around a handlebar of your bike.
     - Push the clip around the handlebar, with the hexagonal holes facing up and towards the bike seat. It should take some force to it on; but once on, the clip should be slightly loose around the handle bars.
-    - The intrerior diameter of the Sensor Clip is 23mm. However, the clips will fit larger diameter handlebars — you'll just need longer M3 screws.
+    - The intrerior diameter of the Sensor Clip is just under 1" (23mm). However, the clips will fit larger diameter handlebars — you'll just need longer M3 screws.
 8. Push two M3 nuts into the hexagonal holes on the Sensor Clip (these should be a tight fiction fit).
 9. Screw two M3x8 screws from the bottom of the clip, through the M3 nuts. Tighten the two screws until the clip no longer slides or rotates.
 10. Use the 1/4-20 x 1" screw to attach any number of sensors, cameras, or projectors to your handlebars.
