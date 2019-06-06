@@ -1,5 +1,5 @@
 ### Jetson Nano Garden Stake
-The Jetson Nano is lightweight and power-efficient, which means you can easily take it outdoors. This Garden Stake assembly has a place to clip in a Jetson Nano developer kit and a portable battery pack, and to add cameras and other peripherals. The pointy stake is great for holding the Nano in soft ground.
+The Jetson Nano is lightweight and power-efficient, which means you can easily take it outdoors. This Garden Stake assembly has a place to clip in a Jetson Nano developer kit and a portable battery pack, as well as cameras and other peripherals. The pointy stake is great for holding the Nano in soft ground.
 
 Here's a few project ideas to get started:
 - Detect and report on bugs and pests in your garden.
@@ -19,8 +19,8 @@ Here's a few project ideas to get started:
 | Board Back | 1 | [jetson_nano_outdoors_stake_board.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/garden-stake/jetson_nano_outdoors_stake_board.stl) |
 | Nano Clip  | 2 | [jetson_nano_clip.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/garden-stake/jetson_nano_clip.stl) |
 | Battery Clip  | 2 | [jetson_nano_clip_battery.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/garden-stake/jetson_nano_clip_battery.stl) |
-| M3x12mm screw | 2 | [Assorted Screw Set](https://www.amazon.com/VIGRUE-1080pcs-Assortment-Kit-Wrenches/dp/B07FCDL2SY/) |
-| M3x12mm nut | 2 | [Assorted Screw Set](https://www.amazon.com/VIGRUE-1080pcs-Assortment-Kit-Wrenches/dp/B07FCDL2SY/) |
+| M3x12 screw | 2 | [Assorted Screw Set](https://www.amazon.com/VIGRUE-1080pcs-Assortment-Kit-Wrenches/dp/B07FCDL2SY/) |
+| M3 nut | 2 | [Assorted Screw Set](https://www.amazon.com/VIGRUE-1080pcs-Assortment-Kit-Wrenches/dp/B07FCDL2SY/) |
 | Portable Battery | 1 | [INUI Power Bank](https://www.amazon.com/INIU-Portable-External-Powerbank-Compatible/dp/B07H6LB4J4/) |
 
 
@@ -36,7 +36,7 @@ Here's a few project ideas to get started:
     - _Note: The back of the board has off-centered slots and a smoother finish._
 6. Snap your Portable Battery into the Battery Clips, and plug in the Nano and other peripherals.
 7. Bolt the board to the stake using the M3 screws and washers.
-8. Stick into the ground and go.
+8. Stick into the ground and go!
 
 #### Printer Settings
 Each of these parts were printed on a [Prusa i3 MK3S](https://www.prusa3d.com/original-prusa-i3-mk3/) printer using the MK3S_MK3_0.2_Fast profile (0.2mm layer height) with PLA. 
