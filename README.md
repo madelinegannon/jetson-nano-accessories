@@ -21,11 +21,9 @@ Or just tidy up your desk with a nice Nano Stand:
 - Nano Stand with Battery Clip and Extruded Aluminium Extensions
 
 ## Modular Clip System
-The assemblies here uses a system of clips to hold the Jetson Nano to a variety of swappable adapters and mounts.
+These assemblies use a system of clips to hold the Jetson Nano to a variety of swappable adapters and mounts. The idea behind this modular system is to allow you to use your Nano in a number of new scenarios, without needing to screw it into an enclosure. So you could snap it into the [Bicycle Mount Kit](https://github.com/madelinegannon/jetson-nano-builds/tree/master/bicycle-mount) for your commute to work, snap it into a [Stand](https://github.com/madelinegannon/jetson-nano-builds/tree/master/stands) that's sitting on your workstation, and maybe put your Nano on your [Refrigerator](https://github.com/madelinegannon/jetson-nano-builds/tree/master/magnetic-mount) or in your [Garden](https://github.com/madelinegannon/jetson-nano-builds/tree/master/garden-stake) when you get back home.  
 
 <img src="https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_assembly.gif" width="600" align=center>
-
-The basic prinicpal is to 
 
 | Nano Clip | Board Backer | Battery Clip |
 | :---: | :---: | :---: |
