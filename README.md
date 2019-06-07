@@ -36,8 +36,9 @@ The three basic components are a _Nano Clip_, that the Jetson Nano Developer Kit
 | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_clip_dimensions.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_board_backer_dimensions.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_clip_battery_dimensions.png) |
 | [jetson_nano_clip.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/suction-cup-mount/jetson_nano_clip.stl) | [nano_board_backer.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/suction-cup-mount/jetson_nano_board.stl) | [jetson_nano_clip_battery.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/magnetic-mount/jetson_nano_clip_battery.stl) |
 
-<img src="https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_board_backer_details.png" width="600">
 The _Board Backer_ features slots for attaching the _Nano Clip_ and _Battery Clip_, as well as a series of holes for tip ties.
+<img src="https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_board_backer_details.png" width="600">
+
 
 #### Build Settings
 Each of included models were printed on a [Prusa i3 MK3S](https://www.prusa3d.com/original-prusa-i3-mk3/) printer. All my build settings are detail in the instructions for each assembly, but keep in mind that your settings and tolerances may vary based on the printer and printing method you use.
