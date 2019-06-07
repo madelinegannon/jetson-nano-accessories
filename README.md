@@ -48,7 +48,7 @@ Here are a few more clips for the rear of the Board Backer that connect your Nan
 | Bicycle Clips | Suction Cup Clips | Tripod Clips |
 | :---: | :---: | :---: |
 | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_clip_bicycle.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_clip_suction-cup.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_clips_tripod.png) |
-| [Bicycle Mount Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/bicycle-mount/) | [Suction Cup Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/suction-cup-mount/) | [Tripod Mount Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/tripod-mount/) |
+| See the [Bicycle Mount Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/bicycle-mount/) | See the [Suction Cup Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/suction-cup-mount/) | See the [Tripod Mount Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/tripod-mount/) |
 
 
 #### Build Settings
