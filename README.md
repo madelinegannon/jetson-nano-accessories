@@ -41,6 +41,7 @@ The _Board Backer_ features slots for attaching the _Nano Clip_ and _Battery Cli
 
 
 Here are a few clips for the rear of the Board Backer that connect your Nano to different things:
+
 | Bicycle Clips | Suction Cup Clips | Tripod Clips |
 | :---: | :---: | :---: |
 | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_clip_bicycle.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_clip_suction-cup.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_clips_tripod.png) |
