@@ -20,5 +20,12 @@ Or just tidy up your desk with a nice Nano Stand:
 - Nano Stand with Battery Clip
 - Nano Stand with Battery Clip and Extruded Aluminium Extensions
 
+## Modular Clip System
+The assemblies here uses a system of clips to hold the Jetson Nano to a variety of swappable adapters and mounts.
+
+<img src="https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_assembly.gif" width="600" align=center>
+
+The basic prinicpal is to 
+
 #### Build Settings
-were tested on a [Prusa i3 MK3S](https://www.prusa3d.com/original-prusa-i3-mk3/) printer. I've included all my build settings with each model, but keep in mind that your settings and tolerances may vary based on the printer and printing method you use.
+Each of included models were printed on a [Prusa i3 MK3S](https://www.prusa3d.com/original-prusa-i3-mk3/) printer. All my build settings are detail in the instructions for each assembly, but keep in mind that your settings and tolerances may vary based on the printer and printing method you use.
