@@ -23,7 +23,7 @@ Or just tidy up your desk with a nice Nano Stand:
 ## Modular Clip System
 The assemblies here uses a system of clips to hold the Jetson Nano to a variety of swappable adapters and mounts.
 
-<img src="https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_assembly.gif" width="600" align=center>
+<img src="https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_assembly.gif" width="600" align=right>
 
 The basic prinicpal is to 
 
