@@ -40,6 +40,12 @@ The _Board Backer_ features slots for attaching the _Nano Clip_ and _Battery Cli
 <img src="https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_board_backer_details.png" width="600" align=center>
 
 
+Here are a few clips for the rear of the Board Backer that connect your Nano to different things:
+| Bicycle Clips | Suction Cup Clips | Tripod Clips |
+| :---: | :---: | :---: |
+| ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_clip_bicycle.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_clip_suction-cup.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_clips_tripod.png) |
+| [Bicycle Mount Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/bicycle-mount/) | [Suction Cup Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/suction-cup-mount/) | [Tripod Mount Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/tripod-mount/) |
+
 
 #### Build Settings
 Each of included models were printed on a [Prusa i3 MK3S](https://www.prusa3d.com/original-prusa-i3-mk3/) printer. All my build settings are detail in the instructions for each assembly, but keep in mind that your settings and tolerances may vary based on the printer and printing method you use.
