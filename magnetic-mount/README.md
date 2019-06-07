@@ -2,7 +2,7 @@
 
 XXX
 
-<img src="https://github.com/madelinegannon/jetson-nano-builds/blob/master/garden-stake/images/jetson_nano_outdoors_stake.png" width="600">
+<img src="" width="600">
 
 ## Parts List
 
@@ -12,7 +12,7 @@ XXX
 | Magent Clip  | 2 | [jetson_nano_clip_magnet.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/magnetic-mount/jetson_nano_clip_magnet.stl) |
 | Nano Clip  | 2 | [jetson_nano_clip.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/magnetic-mount/jetson_nano_clip.stl) |
 | Battery Clip  | 2 | [jetson_nano_clip_battery.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/magnetic-mount/jetson_nano_clip_battery.stl) |
-| Neodymium Disc Magent | 2 | [Set of 32mm x 3mm Magnets](https://www.amazon.com/gp/product/B06XD2X45M/) |
+| Neodymium Disc Magent | 2 | [32mm x 3mm Magnets](https://www.amazon.com/gp/product/B06XD2X45M/) |
 | M3x8 screw | 2 | [Assorted Screw Set](https://www.amazon.com/VIGRUE-1080pcs-Assortment-Kit-Wrenches/dp/B07FCDL2SY/) |
 | M3 nut | 2 | [Assorted Screw Set](https://www.amazon.com/VIGRUE-1080pcs-Assortment-Kit-Wrenches/dp/B07FCDL2SY/) |
 | Portable Battery | 1 | [INUI Power Bank](https://www.amazon.com/INIU-Portable-External-Powerbank-Compatible/dp/B07H6LB4J4/) |
