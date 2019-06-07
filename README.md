@@ -38,7 +38,7 @@ The three basic components are a _Nano Clip_, that the Jetson Nano Developer Kit
 
 The _Board Backer_ features slots for attaching the _Nano Clip_ and _Battery Clip_, as well as a series of holes for tip ties.
 
-<p float="left">
+<p float="center">
 <img src="https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_assembly_side.png" width="300" align=center>
 <img src="https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_board_backer_details.png" width="300" align=center>
 </p>
