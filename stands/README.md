@@ -4,15 +4,15 @@ A variety of 3D printed mounts, adapters, and kits so you can take the NVIDIA Je
 
 Or just tidy up your desk with a nice Nano Stand:
 
-#### Nano Stand
+### Nano Stand
 This stand holds your Nano vertically off your worksurface, and has some space for neatly routing cables.
 
 <img src="https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/images/jetson_nano_clip-feet_cropped.png" width="400" align="center">
 
-####  Nano Stand with Battery Clip
+###  Nano Stand with Battery Clip
 This stand integrates a clip to hold a portable battery, in case your power source is too far away.
 
-####  Nano Stand with Battery Clip and Extruded Aluminium Extensions
+###  Nano Stand with Battery Clip and Extruded Aluminium Extensions
 This stand add a few nodes for attaching 15mm x 15mm extruded aluminium rails, which let you more easily create a custom rig for your Nano.
 
 <img src="https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/images/jetson_nano_sketch-recognition-rig.png" width="400" align="center">
