@@ -13,7 +13,7 @@ Here's a few project ideas to get started:
 
 ## Components
 
-| Nano Clip | Belt Board Backer | Belt Battery Backer |
+| Nano Clip | Belt Board Buckle | Belt Battery Buckle |
 | :---: | :---: | :---: | 
 | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_clip_dimensions.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/utility-belt/images/jetson_nano_back_buckle.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/utility-belt/images/jetson_nano_back_battery_buckle.png) | 
 
