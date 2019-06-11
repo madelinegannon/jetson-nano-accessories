@@ -6,19 +6,14 @@ Or just tidy up your desk with a nice Nano Stand:
 
 #### Nano Stand
 This stand holds your Nano vertically off your worksurface, and has some space for neatly routing cables.
-![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_stand.png) 
-
-<img src="https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/jetson_nano_clip-feet.png" width="600">
+<img src="https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/images/jetson_nano_clip-feet.png" width="600">
 
 ####  Nano Stand with Battery Clip
 This stand integrates a clip to hold a portable battery, in case your power source is too far away.
-![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/jetson_nano_stand_battery.png) 
 
 ####  Nano Stand with Battery Clip and Extruded Aluminium Extensions
 This stand add a few nodes for attaching 15mm x 15mm extruded aluminium rails, which let you more easily create a custom rig for your Nano.
-![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/jetson_nano_stand_battery_rail.png)
-
-<img src="https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/jetson_nano_sketch-recognition-rig.png" width="600">
+<img src="https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/images/jetson_nano_sketch-recognition-rig.png" width="600">
 
 
 ## Components
