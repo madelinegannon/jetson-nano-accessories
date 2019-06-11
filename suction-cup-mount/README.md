@@ -11,6 +11,14 @@ Here's a few project ideas to get started:
 
 <img src="" width="600">
 
+## Components
+
+| Nano Clip | Board Backer | Suction Cup Clips |
+| :---: | :---: | :---: |
+| ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_clip_dimensions.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_board_backer_dimensions.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_clip_suction-cup.png) |
+| [jetson_nano_clip.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/suction-cup-mount/jetson_nano_clip.stl) | [nano_board_backer.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/suction-cup-mount/jetson_nano_board.stl) | [jetson_nano_clips_suction-cup.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/suction-cup-mount/jetson_nano_clip_suction-cup.stl) |
+
+
 ## Parts List
 
 | Item        | Qty           | Reference  |
