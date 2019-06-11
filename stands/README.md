@@ -12,6 +12,8 @@ This stand holds your Nano vertically off your worksurface, and has some space f
 ###  Nano Stand with Battery Clip
 This stand integrates a clip to hold a portable battery, in case your power source is too far away.
 
+<img src="https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/images/jetson_nano_clip_battery_side.png" width="400" align="center">
+
 ###  Nano Stand with Battery Clip and Extruded Aluminium Extensions
 This stand add a few nodes for attaching 15mm x 15mm extruded aluminium rails, which let you more easily create a custom rig for your Nano.
 
