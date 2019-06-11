@@ -3,6 +3,12 @@ This Jetson Nano Tripod Mount lets you attach the Jetson Nano developer kit to a
 
 <img src="" width="600">
 
+## Components
+
+| Nano Clip | Board Backer | Tripod Clips |
+| :---: | :---: | :---: |
+| ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_clip_dimensions.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_board_backer_dimensions.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_clips_tripod.png) |
+
 ## Parts List
 
 | Item        | Qty           | Reference  |
