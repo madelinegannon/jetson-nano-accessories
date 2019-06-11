@@ -53,7 +53,7 @@ Here are a few more clips for the rear of the Board Backer that connect your Nan
 
 | Jetson Nano Stand | Stand with Battery Clip | Stand with Battery Clip and Extruded Aluminium |
 | :---: | :---: | :---: |
-| ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_stand.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_stand_battery.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_stand-battery_rail.png) |
+| ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_stand.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_stand_battery.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_stand_battery_rail.png) |
 | [jetson_nano_clip-feet.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/jetson_nano_clip-feet.stl) | [jetson_nano_clip-feet-battery.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/jetson_nano_clip-feet-battery.stl) | [jetson_nano_clip-feet-battery-rail.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/jetson_nano_clip-feet-battery-rail.stl) |
 
 
