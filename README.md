@@ -36,6 +36,7 @@ The three basic components are a _Nano Clip_, that the Jetson Nano Developer Kit
 | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_clip_dimensions.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_board_backer_dimensions.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_clip_battery_dimensions.png) |
 | [jetson_nano_clip.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/suction-cup-mount/jetson_nano_clip.stl) | [nano_board_backer.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/suction-cup-mount/jetson_nano_board.stl) | [jetson_nano_clip_battery.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/magnetic-mount/jetson_nano_clip_battery.stl) |
 
+### Board Backer
 The _Board Backer_ features slots for attaching the _Nano Clip_ and _Battery Clip_, as well as a series of holes for tip ties.
 
 <p float="center">
@@ -43,6 +44,7 @@ The _Board Backer_ features slots for attaching the _Nano Clip_ and _Battery Cli
 <img src="https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_assembly_side.png" width="425" align=center>
 </p>
 
+### Additional Clips
 Here are a few more clips for the rear of the Board Backer that connect your Nano to different things:
 
 | Bicycle Clips | Suction Cup Clips | Tripod Clips |
@@ -50,6 +52,7 @@ Here are a few more clips for the rear of the Board Backer that connect your Nan
 | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_clip_bicycle.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_clip_suction-cup.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_clips_tripod.png) |
 | See the [Bicycle Mount Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/bicycle-mount/) | See the [Suction Cup Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/suction-cup-mount/) | See the [Tripod Mount Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/tripod-mount/) |
 
+### Stands
 
 | Jetson Nano Stand | Stand with Battery Clip | Stand with Battery Clip and Extruded Aluminium |
 | :---: | :---: | :---: |
