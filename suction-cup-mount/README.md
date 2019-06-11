@@ -1,12 +1,10 @@
 ### Jetson Nano Suction Cup Mount
-This Suction Cup Mount assembly uses suction cups to keep your Jetson Nano in place while driving. 
-**FIX THIS**
-Plug the Nano into your car's 12V auxiliary power (the cigarette lighter) to power the board.
+This Suction Cup Mount Kit adds suction cups to the back of your Jetson Nano, so you can stick it in hard-to-reach or moving surfaces. The suction cups work best on clean, smooth surfaces, such as glass or acrylic.
 
 Here's a few project ideas to get started:
-- Detect bored passengers in the backseat, and entertain them
-- Create a DIY head's up display
-- Monitor interior car temperature
+- Mount inside your car, and use the Nano to create a DIY head's up display
+- Mount to a window, and use the Nano as a motion detector
+- Mount to a dry-erase board, and use the Nano for real-time sketch recognition
 
 
 <img src="" width="600">
@@ -27,7 +25,6 @@ Here's a few project ideas to get started:
 | Nano Clip  | 2 | [jetson_nano_clip.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/suction-cup-mount/jetson_nano_clip.stl) |
 | Suction Cup Clip | 4 | [jetson_nano_clips_suction-cup.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/suction-cup-mount/jetson_nano_clip_suction-cup.stl) |
 | 30mm Suction Cups | 4 | [Assorted Suction Cups](https://www.amazon.com/gp/product/B07H6CTWL4/) |
-| 12V USB Car Adapter | 1 | [Volport USB Car Charger](https://www.amazon.com/Charger-Volport-Adapter-Charging-Android/dp/B07JYWP8JT) |
 
 ## Assembly Instructions
 
