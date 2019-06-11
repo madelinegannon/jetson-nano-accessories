@@ -17,13 +17,13 @@ This stand integrates a clip to hold a portable battery, in case your power sour
 
 |  Stand with Battery (Side) | Stand with Battery (Image) |
 | :---: | :---: |
-| ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/images/jetson_nano_clip_battery_side.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/images/jetson_nano_clip_battery_axon.png) |
+| ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/images/jetson_nano_clip_battery_side.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/images/jetson_nano_stand_battery_axon.png) |
 
 
 ###  Nano Stand with Battery Clip and Extruded Aluminium Extensions
 This stand add a few nodes for attaching 15mm x 15mm extruded aluminium rails. This lets you more easily create a custom rig for your Nano; for example, creating a custom Sketch Recognition rig
 
-|  Stand with Battery and Rail (Side) | Stand with Battery and Rail (Image) |
+|  Stand with Battery and Rail (Side) | Stand with Battery and Rail (Axon) |
 | :---: | :---: |
 | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/images/jetson_nano_clip_battery_rail_side.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/images/jetson_nano_sketch-recognition-rig.png) |
 
