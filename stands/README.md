@@ -18,7 +18,7 @@ This stand integrates a clip to hold a portable battery, in case your power sour
 
 
 ##  Nano Stand with Battery Clip and Extruded Aluminium Extensions
-This stand add a few nodes for attaching 15mm x 15mm extruded aluminium rails. This lets you more easily create a custom rig for your Nano; for example, creating a custom Sketch Recognition rig
+This stand add a few nodes for attaching 15mm x 15mm extruded aluminium rails. This lets you more easily create a custom rig for your Nano — for example, like this custom Sketch Recognition rig:
 
 |  Stand with Battery and Rail (Side) | Stand with Battery and Rail (Image) |
 | :---: | :---: |
