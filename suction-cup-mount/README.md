@@ -37,8 +37,7 @@ Here's a few project ideas to get started:
     - _Note: The back of the board has off-centered slots and a smoother finish._
 6. Thoroughly clean the surface you'll be suctioning to, and then give the assembly a good press down onto the surface.
    - These suction cups work best on completely smooth surfaces, such as glass. 
-7. Plug in your USB Car Adapter into the 12V auxilary port, and then plug in the Nano and other peripherals.
-8. Start your engine and go!
+7. Stick it and go!
 
 #### Printer Settings
 Each of these parts were printed on a [Prusa i3 MK3S](https://www.prusa3d.com/original-prusa-i3-mk3/) printer using the MK3S_MK3_0.2_Fast profile (0.2mm layer height) with PLA. 
