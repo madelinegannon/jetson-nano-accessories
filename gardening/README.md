@@ -11,6 +11,13 @@ Here's a few project ideas to get started:
 
 <img src="https://github.com/madelinegannon/jetson-nano-builds/blob/master/gardening/images/jetson_nano_outdoors_stake.png" width="600">
 
+## Components
+
+| Nano Clip | Battery Clip | Outdoor Board Back | Stake |
+| :---: | :---: | :---: | :---: |
+| ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_clip_dimensions.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_clip_battery_dimensions.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/gardening/images/jetson_nano_outdoors_board_axon.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/gardening/images/jetson_nano_outdoors_stake_axon.png) |
+
+
 ## Parts List
 
 | Item        | Qty           | Reference  |
