@@ -1,8 +1,5 @@
 ### Jetson Nano Stands
-A variety of 3D printed mounts, adapters, and kits so you can take the NVIDIA Jetson Nano anywhere.
-
-
-Or just tidy up your desk with a nice Nano Stand:
+Display and extend your Nano with these different stands.
 
 ### Nano Stand
 This stand holds your Nano vertically off your worksurface, and has some space for neatly routing cables.
