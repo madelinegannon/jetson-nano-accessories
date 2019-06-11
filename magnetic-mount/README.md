@@ -1,8 +1,22 @@
-### Jetson Nano Suction Cup Mount
+### Jetson Nano Magnetic Mount
 
-XXX
+This Magnetic Mount Kit adds super-strong magnets to the back of your Jetson Nano, so you can stick it in hard-to-reach or moving metal surfaces. 
+
+Here's a few project ideas to get started:
+- Mount to your refrigerator, and use [real-time object detection](https://jkjung-avt.github.io/yolov3/) to keep track of groceries
+- Mount to your workbench, and use [real-time object detection](https://jkjung-avt.github.io/yolov3/) to keep track of where you put your tools
+- 
+
+> The neodymium magnets spec'ed here are quite strong, so be careful to not scratch the surface you're attaching to.
 
 <img src="" width="600">
+
+## Components
+
+| Nano Clip | Battery Clip |Magnetic Board Backer | Magnet Clips |
+| :---: | :---: | :---: | :---: |
+| ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_clip_dimensions.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_clip_battery_dimensions.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/magnetic-mount/images/jetson_nano_magnetic_board.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/magnetic-mount/images/jetson_nano_magnetic_clip.png) |
+
 
 ## Parts List
 
