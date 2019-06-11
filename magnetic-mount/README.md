@@ -13,7 +13,7 @@ Here's a few project ideas to get started:
 
 ## Components
 
-| Nano Clip | Battery Clip |Magnetic Board Backer | Magnet Clips |
+| Nano Clip | Battery Clip | Magnetic Board Backer | Magnet Clips |
 | :---: | :---: | :---: | :---: |
 | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_clip_dimensions.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_clip_battery_dimensions.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/magnetic-mount/images/jetson_nano_magnetic_board.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/magnetic-mount/images/jetson_nano_magnetic_clip.png) |
 
