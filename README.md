@@ -29,6 +29,7 @@ The idea behind this is to have a modular, quick-to-print system is to allow you
 
 So, for example, you could snap it into the [Bicycle Mount Kit](https://github.com/madelinegannon/jetson-nano-builds/tree/master/bicycle-mount) for your commute to work, snap it into a [Stand](https://github.com/madelinegannon/jetson-nano-builds/tree/master/stands) that's sitting on your workstation, and maybe put your Nano on your [Refrigerator](https://github.com/madelinegannon/jetson-nano-builds/tree/master/magnetic-mount) or in your [Garden](https://github.com/madelinegannon/jetson-nano-builds/tree/master/garden-stake) when you get back home.  
 
+### Components
 The three basic components are a _Nano Clip_, that the Jetson Nano Developer Kit snaps into, a _Board Backer_, that protects the back of the Nano and has slots for the Nano and Battery Clips, and a _Battery Clip_, that a portable battery pack snaps into. Based on your scenario, you may or may need battery power — so there are other connection options for the rear slots in the Board Backer (e.g., [Suction Cups](https://github.com/madelinegannon/jetson-nano-builds/tree/master/suction-cup-mount)).
 
 | Nano Clip | Board Backer | Battery Clip |
@@ -53,6 +54,7 @@ Here are a few more clips for the rear of the Board Backer that connect your Nan
 | See the [Bicycle Mount Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/bicycle-mount/) | See the [Suction Cup Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/suction-cup-mount/) | See the [Tripod Mount Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/tripod-mount/) |
 
 ### Stands
+If you just want to show off your Nano in your workspace, I also made a few self-supporting stands that you can print.
 
 | Jetson Nano Stand | Stand with Battery Clip | Stand with Battery Clip and Extruded Aluminium |
 | :---: | :---: | :---: |

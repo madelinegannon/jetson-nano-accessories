@@ -4,12 +4,29 @@ A variety of 3D printed mounts, adapters, and kits so you can take the NVIDIA Je
 
 Or just tidy up your desk with a nice Nano Stand:
 
-- Nano Stand
-- Nano Stand with Battery Clip
-- Nano Stand with Battery Clip and Extruded Aluminium Extensions
+#### Nano Stand
+This stand holds your Nano vertically off your worksurface, and has some space for neatly routing cables.
+![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_stand.png) 
+
+<img src="https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/jetson_nano_clip-feet.png" width="600">
+
+####  Nano Stand with Battery Clip
+This stand integrates a clip to hold a portable battery, in case your power source is too far away.
+![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/jetson_nano_stand_battery.png) 
+
+####  Nano Stand with Battery Clip and Extruded Aluminium Extensions
+This stand add a few nodes for attaching 15mm x 15mm extruded aluminium rails, which let you more easily create a custom rig for your Nano.
+![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/jetson_nano_stand_battery_rail.png)
+
+<img src="https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/jetson_nano_sketch-recognition-rig.png" width="600">
 
 
-<img src="" width="600">
+## Components
+
+| Jetson Nano Stand | Stand with Battery Clip | Stand with Battery Clip and Extruded Aluminium |
+| :---: | :---: | :---: |
+| ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_stand.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_stand_battery.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_stand_battery_rail.png) |
+| [jetson_nano_clip-feet.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/jetson_nano_clip-feet.stl) | [jetson_nano_clip-feet-battery.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/jetson_nano_clip-feet-battery.stl) | [jetson_nano_clip-feet-battery-rail.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/jetson_nano_clip-feet-battery-rail.stl) |
 
 ## Parts List
 
