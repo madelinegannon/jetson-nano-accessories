@@ -51,5 +51,11 @@ Here are a few more clips for the rear of the Board Backer that connect your Nan
 | See the [Bicycle Mount Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/bicycle-mount/) | See the [Suction Cup Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/suction-cup-mount/) | See the [Tripod Mount Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/tripod-mount/) |
 
 
+| Jetson Nano Stand | Stand with Battery Clip | Stand with Battery Clip and Extruded Aluminium |
+| :---: | :---: | :---: |
+| ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_stand.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_stand_battery.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_stand-battery_rail.png) |
+| [jetson_nano_clip-feet.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/jetson_nano_clip-feet.stl) | [jetson_nano_clip-feet-battery.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/jetson_nano_clip-feet-battery.stl) | [jetson_nano_clip-feet-battery-rail.stl](https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/jetson_nano_clip-feet-battery-rail.stl) |
+
+
 #### Build Settings
 Each of included models were printed on a [Prusa i3 MK3S](https://www.prusa3d.com/original-prusa-i3-mk3/) printer. All my build settings are detail in the instructions for each assembly, but keep in mind that your settings and tolerances may vary based on the printer and printing method you use.
