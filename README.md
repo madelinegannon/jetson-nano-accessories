@@ -1,24 +1,25 @@
 ### Jetson Nano Builds
-A variety of 3D printed mounts, adapters, and kits so you can take the NVIDIA Jetson Nano anywhere.
+A variety of 3D printed mounts, adapters, and kits that let you take the NVIDIA Jetson Nano anywhere.
 
-The Jetson Nano is a fairly power efficient RasberryPi on steroids. And having a few lying around got me thinking about all the odd places I could now take this small, portable AI-enabled computer.
+## Overview
 
-- Utility Belt
-- Garden Stake
-- Bicycle Mount
-- Car Mount
+The Jetson Nano is a like a RasberryPi on steroids — not only is it fairly power efficient and has a great GPU, the Nano Dev Kit comes with a number of useful ports and pins for making just about _any_ embedded computing project. To jumpstart my creativity in thinking about _what_ I could do with the Nano, I started thinking about _where_ I could take this tiny, portable, powerful computer.
 
-Attach the Nano to useful things like:
-- Glass, with the Suction Cup Kit
-- Metal, with the Magnet Kit
-- Tripods, with the Tripod Leg Clips
-- Extruded Aluminium, with the 8020 or Openbeam Clips
+So I decided to make a bunch of mounts, adapters, and kits for a bunch of possible projects. Some of them are pragmatic and useful — like the [Tripod Mount Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/tripod-mount/). Others are a bit more odd and fun — like the [Utility Belt](https://github.com/madelinegannon/jetson-nano-builds/blob/master/utility-belt/) or [Gardening](https://github.com/madelinegannon/jetson-nano-builds/blob/master/gardening/) Kits. All of them are meant to spark the imagination to come up with novel use cases for this AI-ready embedded computer.
 
-Or just tidy up your desk with a nice Nano Stand:
+All the files to make and modify these builds are included in this repo. They will let you attach the Nano to useful things like:
+- Glass, with the [Suction Cup Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/suction-cup-mount/)
+- Metal, with the [Magnet Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/magnetic-mount/)
+- Tripods, with the [Tripod Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/tripod-mount/)
+- The Body, with the [Utility Belt Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/utility-belt/)
+- A Bike, with the [Bicycle Mount Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/bicycle-mount/)
+- The Ground, with the [Gardening Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/gardening/)
 
-- Nano Stand
-- Nano Stand with Battery Clip
-- Nano Stand with Battery Clip and Extruded Aluminium Extensions
+Or just tidy up your desk, by placing your Nano in a Stand:
+
+- [Nano Stand](https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/)
+- [Nano Stand with Battery Clip](https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/)
+- [Nano Stand with Battery Clip and Extruded Aluminium Extensions](https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/)
 
 ## Modular Clip System
 <img src="https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_assembly.gif" width="600" align=right>
