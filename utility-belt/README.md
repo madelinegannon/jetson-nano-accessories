@@ -3,7 +3,7 @@ The Jetson Nano is lightweight and power-efficient, which means you can easily w
 
 |  Utility Belt (Overall) | Utility Belt (Detail) |
 | :---: | :---: |
-| ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/utility-belt/images/jetson_nano_utility-belt_overall.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/magnetic-mount/images/jetson_nano_utility-belt_detail.png) |
+| ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/utility-belt/images/jetson_nano_utility-belt_overall.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/utility-belt/images/jetson_nano_utility-belt_detail.png) |
 
 Here's a few project ideas to get started:
 - Build your own DIY Head Mounted Device.
