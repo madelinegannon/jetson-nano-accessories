@@ -1,13 +1,13 @@
 ### Jetson Nano Builds
 A variety of 3D printed mounts, adapters, and kits for taking the NVIDIA Jetson Nano anywhere.
 
+<img src="https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_stand_battery.gif" width=400 align=right>
+
 ## Overview
 
 The Jetson Nano is a like a RasberryPi on steroids — not only is it fairly power efficient and has a great GPU, the Nano Dev Kit comes with a number of useful ports and pins for making just about _any_ embedded computing project. To jumpstart my creativity in thinking about _what_ I could do with the Nano, I started thinking about _where_ I could take this tiny, portable, powerful computer.
 
 So I decided to make a bunch of mounts, adapters, and kits for a bunch of possible projects. Some of them are pragmatic and useful — like the [Tripod Mount Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/tripod-mount/). Others are a bit more odd and fun — like the [Utility Belt](https://github.com/madelinegannon/jetson-nano-builds/blob/master/utility-belt/) or [Gardening](https://github.com/madelinegannon/jetson-nano-builds/blob/master/gardening/) Kits. All of them are meant to spark the imagination to come up with novel use cases for this AI-ready embedded computer.
-
-<img src="https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_stand_battery.gif" width=400>
 
 All the files to make and modify these builds are included in this repo. They will let you attach the Nano to useful things like:
 - Glass, with the [Suction Cup Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/suction-cup-mount/)
