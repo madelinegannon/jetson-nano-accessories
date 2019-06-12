@@ -1,6 +1,10 @@
 ### Jetson Nano Utility Belt
 The Jetson Nano is lightweight and power-efficient, which means you can easily wear it on your body. This Utility Belt assembly places the Jetson Nano developer kit and a portable battery pack around your waist, so you can add cameras, sensors, and robots directly on your person.
 
+|  Utility Belt (Overall) | Utility Belt (Detail) |
+| :---: | :---: |
+| ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/utility-belt/images/jetson_nano_utility-belt_overall.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/magnetic-mount/images/jetson_nano_utility-belt_detail.png) |
+
 Here's a few project ideas to get started:
 - Build your own DIY Head Mounted Device.
 - Make robotic garments that respond to their environment.
@@ -9,7 +13,6 @@ Here's a few project ideas to get started:
 
 > Keep in mind that the Nano's heat sink can get hot, and that the board can short if it comes into contact with metal (like from watches or bracelets). Consider adding a case around the top of the board if how you wear your is likely to come in contact with skin or metal. 
 
-<img src="" width="600">
 
 ## Components
 
