@@ -7,6 +7,8 @@ The Jetson Nano is a like a RasberryPi on steroids — not only is it fairly pow
 
 So I decided to make a bunch of mounts, adapters, and kits for a bunch of possible projects. Some of them are pragmatic and useful — like the [Tripod Mount Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/tripod-mount/). Others are a bit more odd and fun — like the [Utility Belt](https://github.com/madelinegannon/jetson-nano-builds/blob/master/utility-belt/) or [Gardening](https://github.com/madelinegannon/jetson-nano-builds/blob/master/gardening/) Kits. All of them are meant to spark the imagination to come up with novel use cases for this AI-ready embedded computer.
 
+![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/gardening/images/jetson_nano_stand_battery.gif)
+
 All the files to make and modify these builds are included in this repo. They will let you attach the Nano to useful things like:
 - Glass, with the [Suction Cup Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/suction-cup-mount/)
 - Metal, with the [Magnet Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/magnetic-mount/)
