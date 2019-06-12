@@ -1,6 +1,10 @@
 ### Jetson Nano Bicycle Mount
 The Jetson Nano is lightweight and power-efficient, which means you can easily take it on the go. This Bicycle Mount assembly allows you to hang a Jetson Nano Developer Kit and Portable Battery from the horizontal crossbar of your bike. It also lets you attach sensors, cameras, or projectors to your handlebars using a standard 1/4-20 screw. Combine the two, and you'll have a number of ways to creatively enhance your daily commute.
 
+|  Bicycle Mount (Overall) | Bicycle Mount (Detail) |
+| :---: | :---: |
+| ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/bicycle-mount/images/jetson_nano_bicycle-mount_overall.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/bicycle-mount/images/jetson_nano_bicycle-mount_detail.png) |
+
 Here's a few project ideas to get started:
 - Detect potholes and other hazards at night using an IR camera.
 - Change the colors of LED lights on your bike based on proximity.
@@ -8,10 +12,6 @@ Here's a few project ideas to get started:
 - Attach a pico projector to add dynamic visuals to your night ride.
 
 > The Jetson Nano is not waterproof, so use on a sunny day :)
-
-|  Bicycle Mount (Overall) | Bicycle Mount (Detail) |
-| :---: | :---: |
-| ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/bicycle-mount/images/jetson_nano_bicycle-mount_overall.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/bicycle-mount/images/jetson_nano_bicycle-mount_detail.png) |
 
 ## Components
 
