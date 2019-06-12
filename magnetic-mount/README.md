@@ -2,6 +2,10 @@
 
 This Magnetic Mount Kit adds super-strong magnets to the back of your Jetson Nano, so you can stick it to metal surfaces that can be hard-to-reach or moving. 
 
+|  Bicycle Mount (Overall) | Bicycle Mount (Detail) |
+| :---: | :---: |
+| ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/magnetic-mount/images/jetson_nano_magnetic-mount_overall.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/magnetic-mount/images/jetson_nano_magnetic-mount_detail.png) |
+
 Here's a few project ideas to get started:
 - Mount to your refrigerator, and use [real-time object detection](https://jkjung-avt.github.io/yolov3/) to keep track of groceries.
 - Mount to your workbench, and use [real-time object detection](https://jkjung-avt.github.io/yolov3/) to keep track of where you put your tools.
