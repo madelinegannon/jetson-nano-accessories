@@ -8,7 +8,7 @@ The Jetson Nano is lightweight and power-efficient, which means you can easily t
 Here's a few project ideas to get started:
 - Detect potholes and other hazards at night using an IR camera.
 - Change the colors of LED lights on your bike based on proximity.
-- Create a 3D map of your commute.
+- Create a 3D map of your commute using a depth camera, like the [ZED](https://www.stereolabs.com/zed/) _(shown above)_.
 - Attach a pico projector to add dynamic visuals to your night ride.
 
 > The Jetson Nano is not waterproof, so use on a sunny day :)
