@@ -15,11 +15,20 @@ All the files to make and modify these builds are included in this repo. They wi
 - A Bike, with the [Bicycle Mount Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/bicycle-mount/)
 - The Ground, with the [Gardening Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/gardening/)
 
+| Suction Cup Kit | Magnet Kit | Tripod Kit | Utility Belt | Bicycle Mount | Gardening Kit |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/suction-cup-mount/images/jetson_nano_suction-cup_detail.png) |  ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/magnetic-mount/images/jetson_nano_magnetic_detail.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/tripod-mount/images/jetson_nano_tripod-mount_overall.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/utility-belt/images/jetson_nano_utility-belt_detail.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/gardening/images/jetson_nano_gardening_detail.png) |
+
+
 Or just tidy up your desk, by placing your Nano in a Stand:
 
 - [Nano Stand](https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/)
 - [Nano Stand with Battery Clip](https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/)
 - [Nano Stand with Battery Clip and Extruded Aluminium Extensions](https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/)
+
+| Nano Stand | Nano Stand with Battery and Extruded Aluminum |
+| :---: | :---: |
+| ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/images/jetson_nano_clip-feet_cropped.png) |  ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/images/jetson_nano_sketch-recognition-rig.png) | 
 
 ## Modular Clip System
 <img src="https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_assembly.gif" width="600" align=right>
