@@ -1,7 +1,7 @@
 ### Jetson Nano Builds
 A variety of 3D printed mounts, adapters, and kits for taking the NVIDIA Jetson Nano anywhere.
 
-<img src="https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_stand_battery.gif" width=400 align=right>
+<img src="https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_stand_battery.gif" width=400 align=center>
 
 ## Overview
 
