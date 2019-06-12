@@ -1,13 +1,15 @@
 ### Jetson Nano Suction Cup Mount
 This Suction Cup Mount Kit adds suction cups to the back of your Jetson Nano, so you can stick it in hard-to-reach or moving surfaces. The suction cups work best on clean, smooth surfaces, such as glass or acrylic.
 
+|  Suction Cup Mount (Overall) | Suction Cup Mount (Detail) |
+| :---: | :---: |
+| ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/suction-cup-mount/images/jetson_nano_suction-cup-mount_overall.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/suction-cup-mount/images/jetson_nano_suction-cup-mount_detail.png) |
+
 Here's a few project ideas to get started:
 - Mount inside your car, and use the Nano to create a DIY head's up display
 - Mount to a window, and use the Nano as a motion detector
 - Mount to a dry-erase board, and use the Nano for real-time sketch recognition
 
-
-<img src="" width="600">
 
 ## Components
 
