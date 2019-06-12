@@ -13,8 +13,6 @@ Here's a few project ideas to get started:
 
 > The neodymium magnets spec'ed here are quite strong, so be careful to not scratch the surface you're attaching to.
 
-<img src="" width="600">
-
 ## Components
 
 | Nano Clip | Battery Clip | Magnetic Board Backer | Magnet Clips |
