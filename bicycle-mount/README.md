@@ -9,7 +9,15 @@ Here's a few project ideas to get started:
 
 > The Jetson Nano is not waterproof, so use on a sunny day :)
 
-<img src="" width="600">
+|  Bicycle Mount (Overall) | Bicycle Mount (Detail) |
+| :---: | :---: |
+| ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/bicycle-mount/images/jetson_nano_bicycle-mount_overall.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/bicycle-mount/images/jetson_nano_bicycle-mount_detail.png) |
+
+## Components
+
+| Nano Clip | Board Back | Bicycle Clips | Sensor Clip |
+| :---: | :---: | :---: | :---: |
+| ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_clip_dimensions.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_board_backer_dimensions.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_clip_bicycle.png) | ![]() |
 
 ## Parts List
 
