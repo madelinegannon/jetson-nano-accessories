@@ -15,9 +15,13 @@ All the files to make and modify these builds are included in this repo. They wi
 - A Bike, with the [Bicycle Mount Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/bicycle-mount/)
 - The Ground, with the [Gardening Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/gardening/)
 
-| Suction Cup Kit | Magnet Kit | Tripod Kit | Utility Belt | Bicycle Mount | Gardening Kit |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/suction-cup-mount/images/jetson_nano_suction-cup-mount_detail.png) |  ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/magnetic-mount/images/jetson_nano_magnetic-mount_detail.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/tripod-mount/images/jetson_nano_tripod-mount_overall.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/utility-belt/images/jetson_nano_utility-belt_detail.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/bicycle-mount/images/jetson_nano_bicycle-mount_overall.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/gardening/images/jetson_nano_outdoors_stake.png) |
+| Suction Cup Kit | Magnet Kit | Tripod Kit | 
+| :---: | :---: | :---: | 
+| ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/suction-cup-mount/images/jetson_nano_suction-cup-mount_detail.png) |  ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/magnetic-mount/images/jetson_nano_magnetic-mount_detail.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/tripod-mount/images/jetson_nano_tripod-mount_overall.png) |
+
+| Utility Belt | Bicycle Mount | Gardening Kit |
+| :---: | :---: | :---: |
+| ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/utility-belt/images/jetson_nano_utility-belt_detail.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/bicycle-mount/images/jetson_nano_bicycle-mount_overall.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/gardening/images/jetson_nano_outdoors_stake.png) |
 
 
 Or just tidy up your desk, by placing your Nano in a Stand:
