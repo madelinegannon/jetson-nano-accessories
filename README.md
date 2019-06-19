@@ -1,15 +1,15 @@
 ### Jetson Nano Accessories
-A variety of 3D printed mounts, adapters, and kits for taking the NVIDIA Jetson Nano anywhere.
+A variety of 3D printed mounts, adapters, and kits for NVIDIA's Jetson Nano.
 
 <img src="https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_stand_battery.gif" width=400 align=left>
 
 ## Overview
 
-The Jetson Nano is a like a RasberryPi on steroids — not only is it fairly power efficient and has a great GPU, the Nano Dev Kit comes with a number of useful ports and pins for making just about _any_ embedded computing project. To jumpstart my creativity in thinking about _what_ I could do with the Nano, I started thinking about _where_ I could take this tiny, portable, powerful computer.
+NVIDIA sent me a few of their new Jetson Nanos to play around and see what I might want to make. On first impression — the Nano is a solid Ubuntu computer, but I was really impressed with its portablity: if you look at their [Jetbot](https://github.com/NVIDIA-AI-IOT/jetbot) project, you can see that you can power the Nano plus a few motors with just a mobile phone charger. So that got me thinking about all the different — _and weird_ — places I could take a Nano ... and that led to me daydreaming about possible projects with this portable, powerful embedded computer.
 
-So I decided to make a bunch of mounts, adapters, and kits for a bunch of possible projects. Some of them are pragmatic and useful — like the [Tripod Mount Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/tripod-mount/). Others are a bit more odd and fun — like the [Utility Belt](https://github.com/madelinegannon/jetson-nano-builds/blob/master/utility-belt/) or [Gardening](https://github.com/madelinegannon/jetson-nano-builds/blob/master/gardening/) Kits. All of them are meant to spark the imagination to come up with novel use cases for this AI-ready embedded computer.
+To jumpstart my creativity, I decided to make a series of mounts, adapters, and kits for taking the Nano, a battery, and a camera into a bunch of different places. Some of them are pragmatic and useful — like the [Tripod Mount Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/tripod-mount/). Others are a bit more odd and fun — like the [Utility Belt](https://github.com/madelinegannon/jetson-nano-builds/blob/master/utility-belt/) or [Gardening](https://github.com/madelinegannon/jetson-nano-builds/blob/master/gardening/) Kits.
 
-All the files to make and modify these builds are included in this repo. They will let you attach the Nano to useful things like:
+I've included all the files to make and modify these 3D printable accessories in this repo. These kits let you attach the Nano to things like:
 - Glass, with the [Suction Cup Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/suction-cup-mount/)
 - Metal, with the [Magnet Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/magnetic-mount/)
 - Tripods, with the [Tripod Kit](https://github.com/madelinegannon/jetson-nano-builds/blob/master/tripod-mount/)
@@ -26,7 +26,7 @@ All the files to make and modify these builds are included in this repo. They wi
 | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/utility-belt/images/jetson_nano_utility-belt_detail.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/bicycle-mount/images/jetson_nano_bicycle-mount_overall.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/gardening/images/jetson_nano_outdoors_stake.png) |
 
 
-Or just tidy up your desk, by placing your Nano in a Stand:
+Plus I made a few stands for holding, displaying, or extending the Nano:
 
 - [Nano Stand](https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/)
 - [Nano Stand with Battery Clip](https://github.com/madelinegannon/jetson-nano-builds/blob/master/stands/)
@@ -39,11 +39,9 @@ Or just tidy up your desk, by placing your Nano in a Stand:
 ## Modular Clip System
 <img src="https://github.com/madelinegannon/jetson-nano-builds/blob/master/images/jetson_nano_assembly.gif" width="600" align=right>
 
-These assemblies use a system of clips to hold the Jetson Nano to a variety of swappable adapters and mounts. 
+My goal for these accessories was to have a kit of swapple, quick-to-print parts, so I could mix-and-match different clips, adapters, and mounts on the fly.
 
-The idea behind this is to have a modular, quick-to-print system is to allow you to take your Nano in a number of new scenarios without needing to screw it into an enclosure. 
-
-So, for example, you could snap it into the [Bicycle Mount Kit](https://github.com/madelinegannon/jetson-nano-builds/tree/master/bicycle-mount) for your commute to work, snap it into a [Stand](https://github.com/madelinegannon/jetson-nano-builds/tree/master/stands) that's sitting on your workstation, and maybe put your Nano on your [Refrigerator](https://github.com/madelinegannon/jetson-nano-builds/tree/master/magnetic-mount) or in your [Garden](https://github.com/madelinegannon/jetson-nano-builds/tree/master/garden-stake) when you get back home.  
+So, for example, over the course of my day, I could snap a Nano into the [Bicycle Mount Kit](https://github.com/madelinegannon/jetson-nano-builds/tree/master/bicycle-mount) for my commute to work, then snap it into a [Stand](https://github.com/madelinegannon/jetson-nano-builds/tree/master/stands) that's sitting on your workstation, and then maybe put my Nano on my [Refrigerator](https://github.com/madelinegannon/jetson-nano-builds/tree/master/magnetic-mount) or in my [Garden](https://github.com/madelinegannon/jetson-nano-builds/tree/master/garden-stake) when I got back home.  
 
 ### Components
 The three basic components are a _Nano Clip_, that the Jetson Nano Developer Kit snaps into, a _Board Backer_, that protects the back of the Nano and has slots for the Nano and Battery Clips, and a _Battery Clip_, that a portable battery pack snaps into. Based on your scenario, you may or may need battery power — so there are other connection options for the rear slots in the Board Backer (e.g., [Suction Cups](https://github.com/madelinegannon/jetson-nano-builds/tree/master/suction-cup-mount)).
