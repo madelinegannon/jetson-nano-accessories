@@ -2,7 +2,7 @@
 
 This Magnetic Mount Kit adds super-strong magnets to the back of your Jetson Nano, so you can stick it to metal surfaces that can be hard-to-reach or moving. 
 
-|  Bicycle Mount (Overall) | Bicycle Mount (Detail) |
+|  Magnetic Mount (Overall) | Magnetic Mount (Detail) |
 | :---: | :---: |
 | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/magnetic-mount/images/jetson_nano_magnetic-mount_overall.png) | ![](https://github.com/madelinegannon/jetson-nano-builds/blob/master/magnetic-mount/images/jetson_nano_magnetic-mount_detail.png) |
 
